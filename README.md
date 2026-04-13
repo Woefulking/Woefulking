@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anton
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Developer | Master's Degree in Computer Science</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
